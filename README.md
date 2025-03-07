@@ -161,7 +161,7 @@ function spawnBoss() {
 
 Mono Aventurero fue desarrollado por Iker Domínguez.
 
-Agradecimientos: Alejandro, Adrian y Fernando.
+Agradecimientos: Alejandro Herrera, Adrian Vaquero , Fernando Camacho y a mi profesor Juan Luis Moreno.
 
 ## 📬 Contacto
 

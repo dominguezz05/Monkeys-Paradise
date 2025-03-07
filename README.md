@@ -153,9 +153,9 @@ function spawnBoss() {
 ---
 ## 📸 Capturas
 
-| Gameplay      | Enemigos |
+| Paisaje     | Enemigos |
 |----------------|---------|
-| ![Gameplay](./assets/gameplay.png) | ![Boss](./assets/boss.png) |
+| ![Gameplay](./assets/jefeFinal.webp) | ![Boss](./assets/nave8.png) |
 ---
 ## 🎧 Creditos
 

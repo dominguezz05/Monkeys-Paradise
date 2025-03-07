@@ -157,7 +157,9 @@ function spawnBoss() {
 |----------------|---------|
 | ![Gameplay](./assets/jefeFinal.webp) | ![Boss](./assets/nave8.png) |
 
-[![Tráiler Oficial - Monkey's Paradise](https://img.youtube.com/vi/tu-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=e7BODpJaCXA)
+## Visualiza el trailer 
+
+[![Tráiler Oficial - Monkey's Paradise](./assets/miniatura.webp)](https://www.youtube.com/watch?v=e7BODpJaCXA)
 
 ---
 ## 🎧 Creditos
